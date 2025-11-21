@@ -1,0 +1,17 @@
+# Ignore sensitive/large files
+Data/
+Output/
+*.csv.gz
+*.tsv
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# R session junk
+.Rhistory
+.Rproj.user/
+.RData*
+.DS_Store
+._*
+.write-test*
